@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260409201453ZR7O3A</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260409201453GKSW7Y</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los autores del Barroco español</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto para 3º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sandra Montes Pajuelo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto &quot;Autores del Barroco español&quot; tiene por objetivo que el alumnado investigue y comprenda los principales autores del Barroco español, sus obras y su contexto histórico y literario.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775749033055</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnrn1g7j-6p1fwofu2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrn1g7j-6p1fwofu2</odePageId>
+      <odeBlockId>block-1775749071004-t3ui0tamy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrn1g7j-6p1fwofu2</odePageId>
+          <odeBlockId>block-1775749071004-t3ui0tamy</odeBlockId>
+          <odeIdeviceId>idevice-1775749071003-mtvx5mrtu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/Imagen-figuras-barroco1.png" title="Figuras del Barroco 1" width="1280" height="853" alt="Figuras del Barroco 1" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada mediante inteligencia artificial (ChatGPT/OpenAI). Uso educativo. Licencia CC BY 4.0.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Este recurso se sitúa dentro del itinerario de aprendizaje sobre <strong>“La literatura en los Siglos de Oro II: el Barroco”</strong>. A lo largo de varias sesiones, pretende acercar al alumnado de <strong>3º de ESO </strong>a los principales autores del Barroco español a través de un enfoque activo y competencial. En primer lugar, se revisarán las características generales del <strong>contexto histórico y cultural del siglo XVII</strong>, con el fin de comprender cómo la crisis de la época influye en la visión del mundo propia del Barroco. A continuación, se abordará el estudio de <strong>algunos de los autores más representativos</strong>, atendiendo a sus obras, estilos y aportaciones, así como a la distinción entre <strong>conceptismo y culteranismo</strong>.</p>
+<p>A lo largo del recurso, el alumnado investigará, analizará y organizará la información para construir una visión global del periodo, estableciendo relaciones entre los autores y su contexto. Se pretende que comprendan la <strong>diversidad de estilos del Barroco</strong> y que reconozcan elementos comunes como el desengaño, la complejidad expresiva o la preocupación por el paso del tiempo. Finalmente, el trabajo culminará con la <strong>elaboración y exposición de una presentación en grupo</strong>, en el que integrarán los aprendizajes adquiridos.</p>
+<p>Para favorecer un aprendizaje significativo, se parte de conocimientos previos y se proponen <strong>actividades variadas </strong>con distintos niveles de dificultad, combinando tareas de <strong>investigación, análisis y reflexión</strong>. Asimismo, se incluyen <strong>instrumentos de evaluación</strong> como la rúbrica, la lista de cotejo y la coevaluación, con el objetivo de aportar mayor objetividad al proceso, facilitar la retroalimentación y fomentar la implicación del alumnado en su propio aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775749071003-mtvx5mrtu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/Imagen-figuras-barroco1.png\" title=\"Figuras del Barroco 1\" width=\"1280\" height=\"853\" alt=\"Figuras del Barroco 1\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada mediante inteligencia artificial (ChatGPT/OpenAI). Uso educativo. Licencia CC BY 4.0.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Este recurso se sitúa dentro del itinerario de aprendizaje sobre <strong>“La literatura en los Siglos de Oro II: el Barroco”</strong>. A lo largo de varias sesiones, pretende acercar al alumnado de <strong>3º de ESO </strong>a los principales autores del Barroco español a través de un enfoque activo y competencial. En primer lugar, se revisarán las características generales del <strong>contexto histórico y cultural del siglo XVII</strong>, con el fin de comprender cómo la crisis de la época influye en la visión del mundo propia del Barroco. A continuación, se abordará el estudio de <strong>algunos de los autores más representativos</strong>, atendiendo a sus obras, estilos y aportaciones, así como a la distinción entre <strong>conceptismo y culteranismo</strong>.</p>\n<p>A lo largo del recurso, el alumnado investigará, analizará y organizará la información para construir una visión global del periodo, estableciendo relaciones entre los autores y su contexto. Se pretende que comprendan la <strong>diversidad de estilos del Barroco</strong> y que reconozcan elementos comunes como el desengaño, la complejidad expresiva o la preocupación por el paso del tiempo. Finalmente, el trabajo culminará con la <strong>elaboración y exposición de una presentación en grupo</strong>, en el que integrarán los aprendizajes adquiridos.</p>\n<p>Para favorecer un aprendizaje significativo, se parte de conocimientos previos y se proponen <strong>actividades variadas </strong>con distintos niveles de dificultad, combinando tareas de <strong>investigación, análisis y reflexión</strong>. Asimismo, se incluyen <strong>instrumentos de evaluación</strong> como la rúbrica, la lista de cotejo y la coevaluación, con el objetivo de aportar mayor objetividad al proceso, facilitar la retroalimentación y fomentar la implicación del alumnado en su propio aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnrn1g7k-8fj30bkml</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INFORMACIÓN GENERAL SOBRE EL BARROCO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnrn1g7k-8fj30bkml</odePageId>
+      <odeBlockId>20260409121030KTITDO</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnrn1g7k-8fj30bkml</odePageId>
+          <odeBlockId>20260409121030KTITDO</odeBlockId>
+          <odeIdeviceId>20260409140951945QKM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/Imagen-figuras-barroco2.png" title="Figuras del Barroco 2" width="1280" height="853" alt="Figuras del Barroco 2" />
+<figcaption class="figcaption"><span class="title"><em>Imagen generada mediante inteligencia artificial (ChatGPT/OpenAI). Uso educativo. Licencia CC BY 4.0.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>PROYECTO:</strong> Los autores del barroco español<br /><strong>Objetivo:</strong> Investigar y comprender los principales autores del Barroco español, sus obras y su contexto histórico y literario.<br /><strong>Nivel </strong>al que va dirigido: <strong>3º ESO</strong><br /><strong>Temporalización aproximada: </strong>9-10 sesiones<br /><strong>Materia:</strong> Lengua castellana y Literatura<br /><strong>Idioma: </strong>castellano<br />Descripción general de lo que se pretende que el alumnado aprenda o trabaje: <br />Este proyecto contribuye especialmente al desarrollo de las competencias específicas 2, 3, 5, 6 y 8, al centrarse en la comprensión, producción y análisis de textos literarios, así como en la investigación autónoma.</p>
+<p><strong>Criterios de evaluación implicados:</strong></p>
+<p>·       2.2. Valorar la forma y el contenido de textos orales y multimodales de cierta complejidad, evaluando su calidad, su fiabilidad y la idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.</p>
+<p>·       3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.</p>
+<p>·       3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</p>
+<p>·       5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.</p>
+<p>·       6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</p>
+<p>·       6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diversos temas de interés académico, personal o social a partir de la información seleccionada.</p>
+<p>·       6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información.</p>
+<p>·       8.1. Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico, atendiendo a la configuración y evolución de los géneros y subgéneros literarios.</p>
+<p><br />El proyecto tiene como <strong>objetivo </strong>que el alumnado conozca y comprenda las características fundamentales del Barroco español a través del estudio de sus principales autores y obras. Se pretende que desarrollen la capacidad de investigar, seleccionar y organizar información relevante, así como relacionar la producción literaria con su contexto histórico, social y cultural.</p>
+<p>Además, el alumnado trabajará el análisis de textos y estilos literarios, identificando rasgos propios del Barroco como el desengaño, la complejidad expresiva o la crítica social. También se fomenta el desarrollo de la competencia comunicativa mediante la elaboración de una presentación estructurada y la expresión de opiniones personales fundamentadas.</p>
+<p>Por último, el proyecto busca promover el pensamiento crítico, la autonomía en el aprendizaje y el trabajo cooperativo, favoreciendo una comprensión más profunda y significativa de la literatura como reflejo de una época.</p>
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 400px;">
+<figcaption class="figcaption header"><strong>Fases del proyecto</strong></figcaption>
+<embed width="400" height="200" src="{{context_path}}/content/resources/Proyecto BARROCO.pdf" type="application/pdf"></embed>
+<figcaption class="figcaption"><span class="author">Sandra Montes </span>. <span class="title"><em>Proyecto "Los autores del Barroco español"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260409140951945QKM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/Imagen-figuras-barroco2.png\" title=\"Figuras del Barroco 2\" width=\"1280\" height=\"853\" alt=\"Figuras del Barroco 2\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen generada mediante inteligencia artificial (ChatGPT/OpenAI). Uso educativo. Licencia CC BY 4.0.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>PROYECTO:</strong> Los autores del barroco español<br /><strong>Objetivo:</strong> Investigar y comprender los principales autores del Barroco español, sus obras y su contexto histórico y literario.<br /><strong>Nivel </strong>al que va dirigido: <strong>3º ESO</strong><br /><strong>Temporalización aproximada: </strong>9-10 sesiones<br /><strong>Materia:</strong> Lengua castellana y Literatura<br /><strong>Idioma: </strong>castellano<br />Descripción general de lo que se pretende que el alumnado aprenda o trabaje: <br />Este proyecto contribuye especialmente al desarrollo de las competencias específicas 2, 3, 5, 6 y 8, al centrarse en la comprensión, producción y análisis de textos literarios, así como en la investigación autónoma.</p>\n<p><strong>Criterios de evaluación implicados:</strong></p>\n<p>·       2.2. Valorar la forma y el contenido de textos orales y multimodales de cierta complejidad, evaluando su calidad, su fiabilidad y la idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.</p>\n<p>·       3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.</p>\n<p>·       3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</p>\n<p>·       5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.</p>\n<p>·       6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</p>\n<p>·       6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diversos temas de interés académico, personal o social a partir de la información seleccionada.</p>\n<p>·       6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información.</p>\n<p>·       8.1. Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico, atendiendo a la configuración y evolución de los géneros y subgéneros literarios.</p>\n<p><br />El proyecto tiene como <strong>objetivo </strong>que el alumnado conozca y comprenda las características fundamentales del Barroco español a través del estudio de sus principales autores y obras. Se pretende que desarrollen la capacidad de investigar, seleccionar y organizar información relevante, así como relacionar la producción literaria con su contexto histórico, social y cultural.</p>\n<p>Además, el alumnado trabajará el análisis de textos y estilos literarios, identificando rasgos propios del Barroco como el desengaño, la complejidad expresiva o la crítica social. También se fomenta el desarrollo de la competencia comunicativa mediante la elaboración de una presentación estructurada y la expresión de opiniones personales fundamentadas.</p>\n<p>Por último, el proyecto busca promover el pensamiento crítico, la autonomía en el aprendizaje y el trabajo cooperativo, favoreciendo una comprensión más profunda y significativa de la literatura como reflejo de una época.</p>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 400px;\">\n<figcaption class=\"figcaption header\"><strong>Fases del proyecto</strong></figcaption>\n<embed width=\"400\" height=\"200\" src=\"{{context_path}}/content/resources/Proyecto BARROCO.pdf\" type=\"application/pdf\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Sandra Montes </span>. <span class=\"title\"><em>Proyecto \"Los autores del Barroco español\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775750199982-7t3he8o8m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775750199982-7t3he8o8m</odePageId>
+      <odeBlockId>block-1775750461477-fsytgz50q</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775750199982-7t3he8o8m</odePageId>
+          <odeBlockId>block-1775750461477-fsytgz50q</odeBlockId>
+          <odeIdeviceId>idevice-1775750461475-v7wgyykcg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> </p>
+<figure class="exe-figure" style="width: 200px;"><img src="{{context_path}}/content/resources/1.jpg" width="200" height="500" alt="Protección de datos personales 1" style="float: left;" />
+<figcaption class="figcaption"><span class="title"><em>Imagen creada por la autora con Canva. Licencia CC BY 4.0.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><img src="{{context_path}}/content/resources/2.jpg" width="200" height="500" alt="Protección de datos personales 2" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775750461475-v7wgyykcg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> </p>\n<figure class=\"exe-figure\" style=\"width: 200px;\"><img src=\"{{context_path}}/content/resources/1.jpg\" width=\"200\" height=\"500\" alt=\"Protección de datos personales 1\" style=\"float: left;\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen creada por la autora con Canva. Licencia CC BY 4.0.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><img src=\"{{context_path}}/content/resources/2.jpg\" width=\"200\" height=\"500\" alt=\"Protección de datos personales 2\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775750732377-nvmrcltsz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775750732377-nvmrcltsz</odePageId>
+      <odeBlockId>block-1775750789007-294r07l74</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775750732377-nvmrcltsz</odePageId>
+          <odeBlockId>block-1775750789007-294r07l74</odeBlockId>
+          <odeIdeviceId>idevice-1775750789006-5mr0rrfoj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto titulado “Los autores del Barroco español” se propone al alumnado la utilización de herramientas digitales como <strong>Canva, Genially o Presentaciones de Google</strong> para la elaboración del producto final: una presentación en la que recojan la información investigada, una línea del tiempo y sus reflexiones personales.</p>
+<p>El objetivo de incorporar estas herramientas es doble: por un lado, facilitar la organización y presentación visual de la información y, por otro, desarrollar la competencia digital del alumnado, promoviendo un uso creativo, crítico y responsable de las TIC.</p>
+<p>Se prioriza Canva por su facilidad de uso y versatilidad, que permite crear presentaciones atractivas mediante plantillas e integrar elementos como imágenes o líneas del tiempo, muy adecuados para estructurar contenidos complejos como los del Barroco. Genially se plantea como alternativa para introducir interactividad, mientras que Presentaciones de Google destaca por su accesibilidad y posibilidades de trabajo colaborativo.</p>
+<p>Son herramientas accesibles en el contexto del centro y adecuadas al nivel de competencia digital de 3º ESO, favoreciendo un aprendizaje más autónomo, creativo y significativo.</p>
+<p><strong>PADLET:</strong> <a href="https://padlet.com/smonpaj740_/recursos-para-investigar-el-barroco-espa-ol-3-eso-30m35oyjef6vid7c" target="_blank" title="" rel="noopener">Recursos para investigar el Barroco</a></p>
+<p><strong>SYMBALOO: </strong><a href="https://www.symbaloo.com/shared/AAAABMCdZzIAA41_lgdVEw==" target="_blank" title="" rel="noopener">Recursos digitales</a></p>
+<figure class="exe-figure position-center" style="width: 1082px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-09 181032.png" title="Mapa conceptual del proyecto" width="1082" height="758" alt="Mapa conceptual del proyecto" />
+<figcaption class="figcaption"><a href="https://mm.tt/map/3979531383?t=mZvndkKckM" class="author" target="_blank" rel="noopener">Sandra Montes</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775750789006-5mr0rrfoj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto titulado “Los autores del Barroco español” se propone al alumnado la utilización de herramientas digitales como <strong>Canva, Genially o Presentaciones de Google</strong> para la elaboración del producto final: una presentación en la que recojan la información investigada, una línea del tiempo y sus reflexiones personales.</p>\n<p>El objetivo de incorporar estas herramientas es doble: por un lado, facilitar la organización y presentación visual de la información y, por otro, desarrollar la competencia digital del alumnado, promoviendo un uso creativo, crítico y responsable de las TIC.</p>\n<p>Se prioriza Canva por su facilidad de uso y versatilidad, que permite crear presentaciones atractivas mediante plantillas e integrar elementos como imágenes o líneas del tiempo, muy adecuados para estructurar contenidos complejos como los del Barroco. Genially se plantea como alternativa para introducir interactividad, mientras que Presentaciones de Google destaca por su accesibilidad y posibilidades de trabajo colaborativo.</p>\n<p>Son herramientas accesibles en el contexto del centro y adecuadas al nivel de competencia digital de 3º ESO, favoreciendo un aprendizaje más autónomo, creativo y significativo.</p>\n<p><strong>PADLET:</strong> <a href=\"https://padlet.com/smonpaj740_/recursos-para-investigar-el-barroco-espa-ol-3-eso-30m35oyjef6vid7c\" target=\"_blank\" title=\"\" rel=\"noopener\">Recursos para investigar el Barroco</a></p>\n<p><strong>SYMBALOO: </strong><a href=\"https://www.symbaloo.com/shared/AAAABMCdZzIAA41_lgdVEw==\" target=\"_blank\" title=\"\" rel=\"noopener\">Recursos digitales</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1082px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-09 181032.png\" title=\"Mapa conceptual del proyecto\" width=\"1082\" height=\"758\" alt=\"Mapa conceptual del proyecto\" />\n<figcaption class=\"figcaption\"><a href=\"https://mm.tt/map/3979531383?t=mZvndkKckM\" class=\"author\" target=\"_blank\" rel=\"noopener\">Sandra Montes</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775751401981-gwqhbr79s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775751401981-gwqhbr79s</odePageId>
+      <odeBlockId>block-1775751424112-xhtm5tejt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775751401981-gwqhbr79s</odePageId>
+          <odeBlockId>block-1775751424112-xhtm5tejt</odeBlockId>
+          <odeIdeviceId>idevice-1775751424110-x0t26eo84</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775751424110-x0t26eo84","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775751581078-1g8tpq23i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775751581078-1g8tpq23i</odePageId>
+      <odeBlockId>block-1775751596926-8b58wv344</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775751581078-1g8tpq23i</odePageId>
+          <odeBlockId>block-1775751596926-8b58wv344</odeBlockId>
+          <odeIdeviceId>idevice-1775751596924-13b9s2d4r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Rúbrica de evaluación:</strong></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 400px;"><iframe width="400" height="200" src="{{context_path}}/content/resources/Barroco-proyecto_Rubrica.pdf"></iframe>
+<figcaption class="figcaption"><span class="title"><em>Rúbrica proyecto-Los autores del Barroco</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-media position-center" style="width: 400px;"><strong>Lista de cotejo:</strong></figure>
+<figure class="exe-figure exe-media position-center" style="width: 400px;" id="fig_n7ps6fiyg"><iframe width="400" height="200" src="{{context_path}}/content/resources/Lista de cotejo-proyecto Barroco.pdf"></iframe>
+<figcaption class="figcaption"><span class="title"><em>Lista de cotejo (CC BY-SA)</em></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong>Cuestionario de coevaluación</strong><strong></strong></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 400px;"><iframe width="400" height="200" src="{{context_path}}/content/resources/COEVALUACIÓN-PROYECTO_BARROCO.pdf"></iframe>
+<figcaption class="figcaption"><span class="title"><em>Cuestionario de coevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775751596924-13b9s2d4r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Rúbrica de evaluación:</strong></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 400px;\"><iframe width=\"400\" height=\"200\" src=\"{{context_path}}/content/resources/Barroco-proyecto_Rubrica.pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Rúbrica proyecto-Los autores del Barroco</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 400px;\"><strong>Lista de cotejo:</strong></figure>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 400px;\" id=\"fig_n7ps6fiyg\"><iframe width=\"400\" height=\"200\" src=\"{{context_path}}/content/resources/Lista de cotejo-proyecto Barroco.pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Lista de cotejo (CC BY-SA)</em></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong>Cuestionario de coevaluación</strong><strong></strong></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 400px;\"><iframe width=\"400\" height=\"200\" src=\"{{context_path}}/content/resources/COEVALUACIÓN-PROYECTO_BARROCO.pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Cuestionario de coevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775752511993-sn9ebfpqo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775752511993-sn9ebfpqo</odePageId>
+      <odeBlockId>block-1775752514428-5z5gzw63r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775752511993-sn9ebfpqo</odePageId>
+          <odeBlockId>block-1775752514428-5z5gzw63r</odeBlockId>
+          <odeIdeviceId>idevice-1775752514427-fgvz4prqm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Proyecto "Los autores del Barroco español"</strong></p>
+<p style="text-align: center;"><strong>Lengua castellana y Literatura</strong></p>
+<p style="text-align: center;"><strong>3º ESO</strong></p>
+<p style="text-align: center;"><strong>Autoría: </strong>Sandra Montes Pajuelo</p>
+<p style="text-align: center;">Recurso creado con la herramienta de autor eXeLearning v_4.0</p>
+<p style="text-align: center;">Con licencia Creative Commons Reconocimiento-Compartir Igual 4.0 España</p>
+<p style="text-align: center;"><a href="https://example.com">Proyecto "Los autores del Barroco español"</a> © 2026 by <a href="https://example.com">Sandra Montes Pajuelo</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em; max-height: 1em; margin-left: .2em;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em; max-height: 1em; margin-left: .2em;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em; max-height: 1em; margin-left: .2em;" />   </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775752514427-fgvz4prqm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Proyecto \"Los autores del Barroco español\"</strong></p>\n<p style=\"text-align: center;\"><strong>Lengua castellana y Literatura</strong></p>\n<p style=\"text-align: center;\"><strong>3º ESO</strong></p>\n<p style=\"text-align: center;\"><strong>Autoría: </strong>Sandra Montes Pajuelo</p>\n<p style=\"text-align: center;\">Recurso creado con la herramienta de autor eXeLearning v_4.0</p>\n<p style=\"text-align: center;\">Con licencia Creative Commons Reconocimiento-Compartir Igual 4.0 España</p>\n<p style=\"text-align: center;\"><a href=\"https://example.com\">Proyecto \"Los autores del Barroco español\"</a> © 2026 by <a href=\"https://example.com\">Sandra Montes Pajuelo</a> is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a><img src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\" style=\"max-width: 1em; max-height: 1em; margin-left: .2em;\" /><img src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\" style=\"max-width: 1em; max-height: 1em; margin-left: .2em;\" /><img src=\"https://mirrors.creativecommons.org/presskit/icons/sa.svg\" alt=\"\" style=\"max-width: 1em; max-height: 1em; margin-left: .2em;\" />   </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
